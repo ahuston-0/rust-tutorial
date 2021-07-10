@@ -2,7 +2,8 @@
 members = [
     "hello_world",
     "primitives",
-    "guessing_game"
+    "guessing_game",
+    "ownership"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
