@@ -176,7 +176,7 @@ fn loops() {
     // Generate array via Range syntax, also reversing
     println!("Count down from 4!");
     for number in (1..4).rev() {
-        println!({}, number);
+        println!("{}", number);
     }
 
     println!("\nDo it again, but with for_each!");
