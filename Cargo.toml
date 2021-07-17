@@ -3,7 +3,8 @@ members = [
     "hello_world",
     "primitives",
     "guessing_game",
-    "ownership"
+    "ownership",
+    "structs"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
