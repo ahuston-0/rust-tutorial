@@ -4,7 +4,9 @@ members = [
     "primitives",
     "guessing_game",
     "ownership",
-    "structs"
+    "structs",
+    "enums_and_patterns",
+    "projects"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
